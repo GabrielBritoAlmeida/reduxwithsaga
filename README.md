@@ -18,6 +18,7 @@ Não tem foco em css, apenas um projeto funcional para estudo.
 - Prettier
 - Eslint
 - Immer
+- Redux-devtools-extension
 
 ### Comandos:
 
