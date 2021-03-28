@@ -17,6 +17,7 @@ Não tem foco em css, apenas um projeto funcional para estudo.
 - Axios
 - Prettier
 - Eslint
+- Immer
 
 ### Comandos:
 
