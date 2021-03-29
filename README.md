@@ -4,6 +4,10 @@
 
 Projeto para estudo de redux com middleware saga. 
 
+Simulando carrinho de compras com 3 produtos.
+Permite adicionar ao carrinho, conforme disponibilidade do estoque, consultada pela saga, realizando uma chamada a api com axios. 
+Caso não tenha disponibilidade do produto, será exibido em tela uma mensagem, "falta de estoque".
+
 Não tem foco em css, apenas um projeto funcional para estudo.
 
 > Projeto iniciado com Create-react-app.
